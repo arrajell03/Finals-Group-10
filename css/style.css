@@ -383,3 +383,8 @@ footer .social a img{
     color: #444;
     text-align: center;
     }
+.body1 {
+    background-image: url(https://i.ytimg.com/vi/AF6vGYIyV8M/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
