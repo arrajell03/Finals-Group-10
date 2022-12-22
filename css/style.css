@@ -362,7 +362,7 @@ footer .social a img{
     object-fit: cover;
     }
 .members1:hover {
-    background: #ddd;
+    background: rgb(204, 240, 252);
     border-radius: 12px;
     }
 .name1 {
