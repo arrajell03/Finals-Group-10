@@ -330,3 +330,56 @@ footer .social a img{
 ::-webkit-scrollbar-thumb{
     background: #303054;
 }
+
+/* About Us */
+.header1 {
+    padding-top: 60px;
+    color: #444;
+    font-size: 20px;
+    margin: auto;
+    line-height: 50px;
+    }
+.sub-container1 {
+    max-width: 1200px;
+    margin: auto;
+    padding: 48px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+.members1 {
+    margin: 10px;
+    padding: 22px;
+    max-width: 30%;
+    cursor: pointer;
+    transition: 0.4s;
+    box-sizing: border-box;
+    }
+.members1 img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    }
+.members1:hover {
+    background: #ddd;
+    border-radius: 12px;
+    }
+.name1 {
+    padding: 12px;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    }
+.name1 p{
+        padding: 10px;
+        font-size: 16px;
+        text-transform: none;
+        }    
+.social-links1 a:hover {
+    transform: scale(1.20); 
+    }
+.social-links1 a i{
+    color: #444;
+    text-align: center;
+    }
