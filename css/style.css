@@ -340,20 +340,19 @@ footer .social a img{
     line-height: 50px;
     }
 .sub-container1 {
-    max-width: 1200px;
-    margin: auto;
-    padding: 48px 0;
+    gap: 15px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding: 10px;
     }
 .members1 {
-    margin: 10px;
-    padding: 22px;
-    max-width: 30%;
-    cursor: pointer;
-    transition: 0.4s;
-    box-sizing: border-box;
+    height: 600px;
+	width: 300px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+	overflow: hidden;
+    padding-top: 20px;
     }
 .members1 img {
     width: 200px;
