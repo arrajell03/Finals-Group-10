@@ -28,6 +28,12 @@
         left: 50%;
         width: 500px;
     }
+    .sub-containter1 .members1 img {
+        top: 60%;
+        left: 50%;
+        width: 500px;
+
+    }
 }
 @media(max-width: 611px){
     .about-sec .about-img img{
@@ -48,6 +54,12 @@ header .navbar-brand{
     top: 50%;
 }
 .gallery-sec .pop-image img {
+    width: 300px;
+}
+.sub-containter1 .members1 img {
+    top: 60%;
+}
+.sub-containter1 .members1 img {
     width: 300px;
 }
 }
